@@ -31,3 +31,12 @@ Navigate to the frontend directory and run:
 npm install
 npm start
 ```
+
+### Backend
+
+Navigate to the backend directory and run:
+
+```bash
+npm install 
+npm start
+```
